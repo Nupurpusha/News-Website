@@ -23,4 +23,4 @@ A simple news website that allows users to search for news articles or browse th
   Interactivity and API integration.
 * ### NewsAPI:
    Provides the news articles.
-
+---
