@@ -3,7 +3,9 @@
 ![image](https://github.com/user-attachments/assets/c400a85f-83b6-4b1a-864e-d478cc897fb1)
 
 
-A simple news website that allows users to search for news articles or browse through categories using a navigation bar. This project demonstrates how to integrate a news API to fetch and display articles dynamically.
+A news website that offers users the ability to search for news articles based on keywords or explore different news categories through an intuitive navigation bar. This project showcases the integration of the NewsAPI to dynamically fetch and display news articles, providing a seamless and interactive user experience.
+
+
 
 ---
 ## Features
