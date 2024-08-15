@@ -26,7 +26,4 @@ A news website that offers users the ability to search for news articles based o
 * ### NewsAPI:
    Provides the news articles.
 
-## Click here to explore the website:
-
-   https://nupurpusha.github.io/News-Website/
 ---
