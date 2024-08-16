@@ -47,7 +47,7 @@ function bindData(articles) {
             window.open(article.url, "_blank");
         });
 
-        cardsContainer.appendChild(cardClone); // Append the card clone to the container
+        cardsContainer.appendChild(cardClone); 
     });
 }
 
