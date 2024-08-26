@@ -71,9 +71,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## Visit the Website
-
-You can view the live version of the website by visiting the following link:
-
-[**News Website**](https://nupurpusha.github.io/My-Portfolio/nupur.html)
 
